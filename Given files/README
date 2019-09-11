@@ -1,0 +1,9 @@
+
+The files here demonstrate a complete program that has all of the following:
+ - a complete main using argc and argv
+ - proper header and cpp file structure
+ - the inclusion of a procedural programming module (functions)
+ - the inclusion of a class and objects made from that class (Rectangle)
+ - loose coupling (i.e. the functions module and the Rectangle class
+   can be moved to other programs as-is and they will work separated
+   from main and from each other.
